@@ -1,0 +1,170 @@
+Start logging at: 2015-05-05 21:24:50.060
+[21:24:50.061] Info: Star::Root using bootstrap file '/home/nicolas/.local/share/Steam/steamapps/common/Starbound/linux64/sbboot.config'
+[21:24:50.061] Info: Star::Root using storage directory '/home/nicolas/.local/share/Steam/steamapps/common/Starbound/giraffe_storage'
+[21:24:50.061] Info: Preparing Star::Root...
+[21:24:50.061] Info: Loading Configuration with config file: 'starbound.config'
+[21:24:50.061] Info: Loading Star::Configuration from 'Just (./../giraffe_storage/starbound.config)'
+[21:24:50.063] Info: Writing Star::Configuration to './../giraffe_storage/starbound.config'
+[21:24:50.064] Info: Initializing Star::Root with 2 assets sources
+[21:24:50.064] Info: Done preparing Star::Root.
+[21:24:50.065] Info: Client Version 'Beta v. Spirited Giraffe - Update 4' Revision: 50d7c4ce63b249c459f276280225041cc4e745a8 Protocol: 679
+[21:24:50.065] Info: Initialized SDL
+[21:24:50.102] Info: Initialized SDL Video
+[21:24:50.137] Info: Initialized SDL Joystick
+[21:24:50.164] Info: Initialized SDL Sound
+[21:24:50.168] Info: Opened default audio device with 44khz / 16 bit stereo audio, 1024 sample size buffer
+[21:24:50.169] Info: Loading Assets
+[21:24:50.169] Info: Loading Star::Assets from: '../assets/packed.pak'
+[21:24:50.169] Info: Loading Star::Assets from: '../assets/user'
+[21:24:50.492] Info: Done loading Assets
+[21:24:50.495] Info: Fully loading Star::Root...
+[21:24:50.496] Info: Loading NameGenerator
+[21:24:50.496] Info: Loading NpcDatabase
+[21:24:50.497] Info: Loading PlayerFactory
+[21:24:50.497] Info: Loading PlantDatabase
+[21:24:50.499] Info: Loading ProjectileDatabase
+[21:24:50.500] Info: Loading MonsterDatabase
+[21:24:50.501] Info: Loading ObjectDatabase
+[21:24:50.502] Info: Loading EntityFactory
+[21:24:50.505] Info: Done loading PlayerFactory
+[21:24:50.505] Info: Loading ItemDatabase
+[21:24:50.513] Info: Done loading NameGenerator
+[21:24:50.513] Info: Loading MaterialDatabase
+[21:24:50.513] Info: Loading ParticleDatabase
+[21:24:50.591] Info: Initializing SDL Window
+[21:24:51.626] Info: OpenGL version: '3.0 Mesa 10.5.2' vendor: 'Intel Open Source Technology Center' renderer: 'Mesa DRI Intel(R) Sandybridge Mobile ' shader: '1.30'
+[21:24:51.626] Info: Created initial window 1000x600
+[21:24:51.628] Info: Done loading NpcDatabase
+[21:24:51.628] Info: Loading TerrainDatabase
+[21:24:51.639] Info: Renderer initialized
+[21:24:52.898] Info: Done loading TerrainDatabase
+[21:24:52.898] Info: Loading BiomeDatabase
+[21:24:54.846] Info: Done loading BiomeDatabase
+[21:24:54.846] Info: Loading LiquidsDatabase
+[21:24:55.422] Info: Done loading ParticleDatabase
+[21:24:56.695] Info: Done loading PlantDatabase
+[21:24:56.695] Info: Loading StatusEffectDatabase
+[21:24:57.928] Info: Done loading StatusEffectDatabase
+[21:24:57.928] Info: Loading DamageDatabase
+[21:24:58.801] Info: Done loading ProjectileDatabase
+[21:24:58.801] Info: Loading EffectSourceDatabase
+[21:24:58.891] Info: Done loading MaterialDatabase
+[21:24:58.892] Info: Loading FunctionDatabase
+[21:24:58.893] Info: Done loading LiquidsDatabase
+[21:24:58.893] Info: Loading TreasureDatabase
+[21:24:59.099] Info: Done loading TreasureDatabase
+[21:24:59.099] Info: Loading DungeonDefinitions
+[21:24:59.167] Info: Done loading FunctionDatabase
+[21:24:59.167] Info: Loading EmoteProcessor
+[21:24:59.167] Info: Done loading EmoteProcessor
+[21:24:59.167] Info: Loading SpeciesDatabase
+[21:24:59.234] Info: Done loading SpeciesDatabase
+[21:24:59.234] Info: Loading ImageMetadataDatabase
+[21:24:59.234] Info: Done loading ImageMetadataDatabase
+[21:24:59.234] Info: Loading VersioningDatabase
+[21:24:59.235] Info: Done loading VersioningDatabase
+[21:24:59.235] Info: Loading QuestTemplateDatabase
+[21:24:59.550] Info: Done loading EffectSourceDatabase
+[21:24:59.550] Info: Loading AiDatabase
+[21:24:59.678] Info: Done loading QuestTemplateDatabase
+[21:24:59.678] Info: Loading TechDatabase
+[21:24:59.776] Info: Done loading AiDatabase
+[21:24:59.776] Info: Loading CodexDatabase
+[21:25:00.000] Info: Done loading TechDatabase
+[21:25:00.033] Info: Done loading DamageDatabase
+[21:25:01.712] Info: Done loading CodexDatabase
+[21:25:01.982] Info: Done loading MonsterDatabase
+[21:25:03.118] Info: Done loading ObjectDatabase
+[21:25:03.119] Info: Done loading EntityFactory
+[21:25:11.057] Info: Done loading ItemDatabase
+[21:25:13.975] Info: Done loading DungeonDefinitions
+[21:25:13.977] Info: Done fully loading Star::Root
+[21:25:13.988] Info: Renderer destroyed
+[21:25:15.348] Info: Creating default Star::Configuration
+[21:25:15.348] Info: Creating default Star::Configuration
+[21:25:15.475] Info: Renderer initialized
+[21:25:21.304] Info: Renderer destroyed
+[21:25:21.304] Info: Initializing SDL Window
+[21:25:21.312] Info: OpenGL version: '3.0 Mesa 10.5.2' vendor: 'Intel Open Source Technology Center' renderer: 'Mesa DRI Intel(R) Sandybridge Mobile ' shader: '1.30'
+[21:25:21.312] Info: Re-created window 1301x744
+[21:25:21.316] Info: Renderer initialized
+[21:25:23.139] Info: Writing Star::Configuration to './../giraffe_storage/starbound.config'
+[21:25:23.349] Info: Renderer destroyed
+[21:25:23.364] Info: UniverseServer: Acquiring universe lock file
+[21:25:23.365] Info: UniverseServer: Loading settings
+[21:25:23.366] Info: UniverseServer: Finding starter world
+[21:25:23.366] Info: UniverseServer: Loading celestial world 760547244:86136801:-57892446:2:3 
+[21:25:24.009] Info: UniverseServer: Starting UniverseServer with UUID: 804e4a079d3b4d246fec90f84f636ac6
+[21:25:24.023] Info: UniverseServer: Logged in player 'KaiserPhoenix' locally
+[21:25:24.023] Info: UniverseServer: Logged in account '<anonymous>' as player 'KaiserPhoenix' from address local
+[21:25:24.340] Info: UniverseServer: Reviving player at ClientShipWorld:3ed98abcbb906c7e1fd3ae5239ea4478
+[21:25:24.341] Info: UniverseClient: Joined server as client 1
+[21:25:24.465] Info: Creating default Star::Configuration
+[21:25:24.465] Info: Creating default Star::Configuration
+[21:25:24.551] Info: Renderer initialized
+[21:25:24.700] Info: UniverseServer: Client 'KaiserPhoenix' <1> (local) connected
+[21:25:24.732] Info: UniverseServer: Loading client ship world ClientShipWorld:3ed98abcbb906c7e1fd3ae5239ea4478
+[21:25:25.752] Info: UniverseServer: Loading celestial world 760547250:86136799:-99130657:4 
+[21:25:34.104] Info: UniverseServer: Stopping world CelestialWorld:760547244:86136801:-57892446:2:3 due to inactivity
+[21:25:34.204] Info: UniverseServer: World thread has stopped due to inactivity, removing world CelestialWorld:760547244:86136801:-57892446:2:3
+[21:25:36.194] Info: UniverseServer: Stopping world CelestialWorld:760547250:86136799:-99130657:4 due to inactivity
+[21:25:36.294] Info: UniverseServer: World thread has stopped due to inactivity, removing world CelestialWorld:760547250:86136799:-99130657:4
+[21:30:18.163] Info: Writing Star::Configuration to './../giraffe_storage/starbound.config'
+[21:30:23.164] Info: Writing Star::Configuration to './../giraffe_storage/starbound.config'
+[21:30:33.165] Info: Writing Star::Configuration to './../giraffe_storage/starbound.config'
+[21:30:38.166] Info: Writing Star::Configuration to './../giraffe_storage/starbound.config'
+[21:30:43.168] Info: Writing Star::Configuration to './../giraffe_storage/starbound.config'
+[21:32:13.001] Info: UniverseServer: Loading celestial world 760547250:86136799:-99130657:4 
+[21:32:13.532] Info: Client received world stop packet, leaving: Removed
+[21:32:23.367] Info: UniverseServer: Stopping world ClientShipWorld:3ed98abcbb906c7e1fd3ae5239ea4478 due to inactivity
+[21:32:23.468] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:3ed98abcbb906c7e1fd3ae5239ea4478
+[21:32:49.542] Warn: Failed to place dungeon object: bunkerconsole2 direction: 0 position: (1228, 856)
+[21:34:35.085] Info: UniverseServer: Loading client ship world ClientShipWorld:3ed98abcbb906c7e1fd3ae5239ea4478
+[21:34:36.769] Info: Client received world stop packet, leaving: Removed
+[21:34:46.692] Info: UniverseServer: Stopping world CelestialWorld:760547250:86136799:-99130657:4 due to inactivity
+[21:34:46.792] Info: UniverseServer: World thread has stopped due to inactivity, removing world CelestialWorld:760547250:86136799:-99130657:4
+[21:35:19.459] Info: UniverseServer: Creating celestial world 760547250:86136799:-99130657:7 
+[21:35:32.251] Info: UniverseServer: Stopping world CelestialWorld:760547250:86136799:-99130657:7 due to inactivity
+[21:35:32.351] Info: UniverseServer: World thread has stopped due to inactivity, removing world CelestialWorld:760547250:86136799:-99130657:7
+[21:36:53.585] Info: UniverseServer: Loading celestial world 760547250:86136799:-99130657:7 
+[21:36:53.927] Info: Client received world stop packet, leaving: Removed
+[21:37:03.953] Info: UniverseServer: Stopping world ClientShipWorld:3ed98abcbb906c7e1fd3ae5239ea4478 due to inactivity
+[21:37:04.053] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:3ed98abcbb906c7e1fd3ae5239ea4478
+[21:38:29.732] Warn: Failed to place dungeon object: midjar1 direction: 0 position: (3924, 1353)
+[22:01:44.705] Warn: Failed to place dungeon object: midjar1 direction: 0 position: (4239, 1100)
+[22:19:04.130] Warn: Failed to place dungeon object: midjar1 direction: 0 position: (4497, 1013)
+[22:19:05.298] Warn: Failed to place dungeon object: midjar1 direction: 0 position: (4381, 1029)
+[22:31:22.632] Info: UniverseServer: Loading client ship world ClientShipWorld:3ed98abcbb906c7e1fd3ae5239ea4478
+[22:31:24.283] Info: Client received world stop packet, leaving: Removed
+[22:31:34.126] Info: UniverseServer: Stopping world CelestialWorld:760547250:86136799:-99130657:7 due to inactivity
+[22:31:34.227] Info: UniverseServer: World thread has stopped due to inactivity, removing world CelestialWorld:760547250:86136799:-99130657:7
+[22:45:02.879] Info: UniverseServer: Loading celestial world 760547244:86136801:-57892446:2:3 
+[22:45:13.743] Info: UniverseServer: Stopping world CelestialWorld:760547244:86136801:-57892446:2:3 due to inactivity
+[22:45:13.843] Info: UniverseServer: World thread has stopped due to inactivity, removing world CelestialWorld:760547244:86136801:-57892446:2:3
+[22:46:11.832] Info: UniverseServer: Loading celestial world 760547244:86136801:-57892446:2:3 
+[22:46:12.151] Info: Client received world stop packet, leaving: Removed
+[22:46:22.207] Info: UniverseServer: Stopping world ClientShipWorld:3ed98abcbb906c7e1fd3ae5239ea4478 due to inactivity
+[22:46:22.307] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:3ed98abcbb906c7e1fd3ae5239ea4478
+[22:53:40.760] Info: UniverseServer: Loading client ship world ClientShipWorld:3ed98abcbb906c7e1fd3ae5239ea4478
+[22:53:42.330] Info: Client received world stop packet, leaving: Removed
+[22:53:52.208] Info: UniverseServer: Stopping world CelestialWorld:760547244:86136801:-57892446:2:3 due to inactivity
+[22:53:52.309] Info: UniverseServer: World thread has stopped due to inactivity, removing world CelestialWorld:760547244:86136801:-57892446:2:3
+[22:54:35.426] Info: UniverseServer: Loading celestial world 760547244:86136801:-57892446:2:3 
+[22:54:35.778] Info: Client received world stop packet, leaving: Removed
+[22:54:45.762] Info: UniverseServer: Stopping world ClientShipWorld:3ed98abcbb906c7e1fd3ae5239ea4478 due to inactivity
+[22:54:45.862] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:3ed98abcbb906c7e1fd3ae5239ea4478
+[23:01:09.710] Info: UniverseServer: Loading client ship world ClientShipWorld:3ed98abcbb906c7e1fd3ae5239ea4478
+[23:01:11.693] Info: Client received world stop packet, leaving: Removed
+[23:01:21.738] Info: UniverseServer: Stopping world CelestialWorld:760547244:86136801:-57892446:2:3 due to inactivity
+[23:01:21.838] Info: UniverseServer: World thread has stopped due to inactivity, removing world CelestialWorld:760547244:86136801:-57892446:2:3
+[23:19:41.005] Info: Renderer destroyed
+[23:19:41.033] Info: UniverseClient: Client disconnecting...
+[23:19:41.042] Info: Client received world stop packet, leaving: Removed
+[23:19:41.253] Info: UniverseServer: Client 'KaiserPhoenix' <1> (local) disconnected
+[23:19:41.353] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:3ed98abcbb906c7e1fd3ae5239ea4478
+[23:19:41.866] Info: UniverseServer: Stopping UniverseServer
+[23:19:41.911] Info: Renderer initialized
+[23:19:44.312] Info: Renderer destroyed
+[23:19:44.312] Info: Application quitting!
+[23:19:44.332] Info: Client shutdown gracefully
+[23:19:44.536] Info: Shutting down Star::Root
