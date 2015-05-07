@@ -1,0 +1,93 @@
+Start logging at: 2015-05-07 10:19:41.535
+[10:19:41.540] Info: Star::Root using bootstrap file 'C:\Program Files (x86)\Steam\steamapps\common\Starbound\win32\sbboot.config'
+[10:19:41.547] Info: Star::Root using storage directory 'C:\Program Files (x86)\Steam\steamapps\common\Starbound\giraffe_storage\'
+[10:19:41.548] Info: Preparing Star::Root...
+[10:19:41.550] Info: Loading Configuration with config file: 'starbound.config'
+[10:19:41.551] Info: Loading Star::Configuration from 'Just (.\..\giraffe_storage\starbound.config)'
+[10:19:41.553] Info: Writing Star::Configuration to '.\..\giraffe_storage\starbound.config'
+[10:19:41.556] Info: Initializing Star::Root with 2 assets sources
+[10:19:41.557] Info: Done preparing Star::Root.
+[10:19:41.557] Info: Fully loading Star::Root...
+[10:19:41.564] Info: Loading Assets
+[10:19:41.565] Info: Loading NameGenerator
+[10:19:41.566] Info: Loading ObjectDatabase
+[10:19:41.567] Info: Loading PlantDatabase
+[10:19:41.567] Info: Loading ProjectileDatabase
+[10:19:41.568] Info: Loading MonsterDatabase
+[10:19:41.568] Info: Loading NpcDatabase
+[10:19:41.568] Info: Loading PlayerFactory
+[10:19:41.569] Info: Loading Star::Assets from: '../assets/packed.pak'
+[10:19:41.585] Info: Loading Star::Assets from: '../assets/user'
+[10:19:41.859] Info: Done loading Assets
+[10:19:41.860] Info: Loading EntityFactory
+[10:19:41.871] Info: Done loading NameGenerator
+[10:19:41.878] Info: Loading ItemDatabase
+[10:19:41.897] Info: Done loading PlayerFactory
+[10:19:41.899] Info: Loading MaterialDatabase
+[10:19:41.926] Info: Loading ParticleDatabase
+[10:19:42.075] Info: Done loading ParticleDatabase
+[10:19:42.087] Info: Done loading PlantDatabase
+[10:19:42.100] Info: Loading TerrainDatabase
+[10:19:42.107] Info: Done loading NpcDatabase
+[10:19:42.108] Info: Loading BiomeDatabase
+[10:19:42.149] Info: Done loading ProjectileDatabase
+[10:19:42.149] Info: Loading LiquidsDatabase
+[10:19:42.169] Info: Done loading TerrainDatabase
+[10:19:42.169] Info: Loading StatusEffectDatabase
+[10:19:42.274] Info: Done loading StatusEffectDatabase
+[10:19:42.275] Info: Loading DamageDatabase
+[10:19:42.287] Info: Done loading MaterialDatabase
+[10:19:42.288] Info: Loading EffectSourceDatabase
+[10:19:42.290] Info: Done loading LiquidsDatabase
+[10:19:42.290] Info: Loading FunctionDatabase
+[10:19:42.311] Info: Done loading FunctionDatabase
+[10:19:42.311] Info: Loading TreasureDatabase
+[10:19:42.313] Info: Done loading EffectSourceDatabase
+[10:19:42.313] Info: Loading DungeonDefinitions
+[10:19:42.326] Info: Done loading BiomeDatabase
+[10:19:42.327] Info: Loading EmoteProcessor
+[10:19:42.328] Info: Done loading EmoteProcessor
+[10:19:42.329] Info: Loading SpeciesDatabase
+[10:19:42.369] Info: Done loading SpeciesDatabase
+[10:19:42.370] Info: Loading ImageMetadataDatabase
+[10:19:42.370] Info: Done loading ImageMetadataDatabase
+[10:19:42.371] Info: Loading VersioningDatabase
+[10:19:42.527] Info: Done loading TreasureDatabase
+[10:19:42.527] Info: Loading QuestTemplateDatabase
+[10:19:42.539] Info: Done loading QuestTemplateDatabase
+[10:19:42.540] Info: Loading AiDatabase
+[10:19:42.541] Info: Done loading MonsterDatabase
+[10:19:42.543] Info: Loading TechDatabase
+[10:19:42.552] Info: Done loading TechDatabase
+[10:19:42.552] Info: Loading CodexDatabase
+[10:19:42.572] Info: Done loading VersioningDatabase
+[10:19:42.588] Info: Done loading AiDatabase
+[10:19:42.597] Info: Done loading CodexDatabase
+[10:19:42.648] Info: Done loading DamageDatabase
+[10:19:42.857] Info: Done loading ObjectDatabase
+[10:19:42.857] Info: Done loading EntityFactory
+[10:19:47.652] Info: Done loading ItemDatabase
+[10:19:48.817] Info: Done loading DungeonDefinitions
+[10:19:48.820] Info: Done fully loading Star::Root
+[10:19:48.821] Info: Server Version 'Beta v. Spirited Giraffe - Update 4' Revision: 50d7c4ce63b249c459f276280225041cc4e745a8 Protocol: 679
+[10:19:48.822] Info: Scanning for router for portforwarding
+[10:20:32.794] Info: Done scanning for router for portforwarding
+[10:20:32.796] Info: UniverseServer: Acquiring universe lock file
+[10:20:32.809] Info: UniverseServer: Loading settings
+[10:20:32.812] Info: UniverseServer: Finding starter world
+[10:20:32.813] Info: UniverseServer: Loading celestial world 760547244:86136801:-57892446:2:3 
+[10:20:33.152] Info: UniverseServer: Starting UniverseServer with UUID: 804e4a079d3b4d246fec90f84f636ac6
+[10:20:43.194] Info: UniverseServer: Stopping world CelestialWorld:760547244:86136801:-57892446:2:3 due to inactivity
+[10:20:43.295] Info: UniverseServer: World thread has stopped due to inactivity, removing world CelestialWorld:760547244:86136801:-57892446:2:3
+[10:21:17.951] Info: UniverseServer: Connection received from: 127.0.0.1:11176
+[10:21:17.958] Info: UniverseServer: Logged in account '<anonymous>' as player 'KaiserPhoenix' from address 127.0.0.1
+[10:21:17.972] Info: UniverseServer: Reviving player at ClientShipWorld:3ed98abcbb906c7e1fd3ae5239ea4478
+[10:21:18.191] Info: UniverseServer: Client 'KaiserPhoenix' <1> (127.0.0.1) connected
+[10:21:18.191] Info: UniverseServer: Loading client ship world ClientShipWorld:3ed98abcbb906c7e1fd3ae5239ea4478
+[10:21:18.722] Info: UniverseServer: Loading celestial world 760547244:86136801:-57892446:6:2 
+[10:21:29.226] Info: UniverseServer: Stopping world CelestialWorld:760547244:86136801:-57892446:6:2 due to inactivity
+[10:21:29.327] Info: UniverseServer: World thread has stopped due to inactivity, removing world CelestialWorld:760547244:86136801:-57892446:6:2
+[10:24:13.185] Info: UniverseServer: Connection received from: 172.16.4.25:3349
+[10:24:13.187] Warn: UniverseServer: client connection aborted
+[10:24:13.314] Warn: I/O error in RemotePacketSocket::receiveData, closing: (NetworkException) tcp recv error: Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte.
+
